@@ -2,7 +2,7 @@ streamlit
 streamlit_option_menu
 streamlit_lottie
 beautifulsoup4
-google
+googlesearch-python
 whois
 json
 pickle
