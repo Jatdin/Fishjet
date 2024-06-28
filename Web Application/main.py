@@ -498,9 +498,7 @@ import json
 # Initialize the Streamlit runtime
 st.set_page_config(page_title="Phishing Detection URL via Machine Learning", page_icon=":shark:", layout="wide")
 
-# Use absolute path
-model_path = '/opt/render/project/src/Web Application/TrainedModel.sav'
-loaded_model = pickle.load(open(model_path, 'rb'))
+loaded_model = pickle.load(open(r".\TrainedModel.sav", 'rb'))
 
 def prediction(features):
     prediction=loaded_model.predict(features)
