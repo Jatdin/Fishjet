@@ -2,7 +2,7 @@ streamlit
 streamlit_option_menu
 streamlit_lottie
 beautifulsoup4
-googlesearch-python
+googlesearch-python>=0.3.3,<0.55.2
 whois
 pickle
 socket
