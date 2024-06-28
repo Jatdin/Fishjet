@@ -1,3 +1,11 @@
 streamlit
 streamlit_option_menu
+streamlit_lottie
 beautifulsoup4
+google
+whois
+json
+pickle
+socket
+requests
+urllib.request
