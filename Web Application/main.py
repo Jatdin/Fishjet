@@ -515,7 +515,7 @@ def load_lottiefile(filepath: str):
     with open(filepath, "r") as f:
         return json.load(f)
 
-lottie_coding = load_lottiefile(".\phishing latest.json")   
+lottie_coding = load_lottiefile("./opt/render/project/src/Web Application/phishing latest.json")   
 
 st_lottie(
     lottie_coding,
