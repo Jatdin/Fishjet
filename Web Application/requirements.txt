@@ -5,3 +5,4 @@ beautifulsoup4
 googlesearch-python==1.2.4
 whois
 xgboost
+os
