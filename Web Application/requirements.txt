@@ -3,8 +3,4 @@ streamlit_option_menu
 streamlit_lottie
 beautifulsoup4
 googlesearch-python==1.2.4
-whois
-pickle
-socket
-requests
-urllib.request
+
